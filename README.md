@@ -1,4 +1,4 @@
-# Loan Approval Prediction
+# Loan Approval 
 
 This project focuses on building a machine learning model to predict loan approval based on various factors such as applicant's credit score, income, loan amount, employment status, and other demographic details. The objective is to build a model that can help financial institutions make data-driven decisions regarding loan approvals.
 
